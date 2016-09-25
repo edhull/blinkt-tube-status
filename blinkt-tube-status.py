@@ -15,10 +15,10 @@ GOOD_SERVICE = "Good Service"
 # used for each line and when those lines operate
 # (night tube is coming soon!)
 CONFIG = {
-    "Bakerloo": {
+    "Victoria": {
         "led_no": 7,
         "colour": {
-            "Good Service": (132, 40, 3),
+            "Good Service": (0, 255, 0),
             "Severe Delays": RED,
             "Minor Delays": YELLOW
         },
@@ -27,10 +27,10 @@ CONFIG = {
             "end": datetime.time(1, 0, 0),
         }
     },
-    "Central": {
+    "Picadilly": {
         "led_no": 6,
         "colour": {
-            "Good Service": (90, 0, 0),
+            "Good Service": (0,255,0),
             "Severe Delays": RED,
             "Minor Delays": YELLOW
         },
@@ -42,7 +42,7 @@ CONFIG = {
     "Circle": {
         "led_no": 5,
         "colour": {
-            "Good Service": (120, 120, 0),
+            "Good Service": (0,255,0),
             "Severe Delays": RED,
             "Minor Delays": YELLOW
         },
@@ -54,7 +54,7 @@ CONFIG = {
     "District": {
         "led_no": 4,
         "colour": {
-            "Good Service": (0, 50, 0),
+            "Good Service": (0, 255, 0),
             "Severe Delays": RED,
             "Minor Delays": YELLOW
         },
@@ -66,7 +66,7 @@ CONFIG = {
     "Hammersmith and City": {
         "led_no": 3,
         "colour": {
-            "Good Service": (255, 50, 50),
+            "Good Service": (0,255,0),
             "Severe Delays": RED,
             "Minor Delays": YELLOW
         },
@@ -75,10 +75,10 @@ CONFIG = {
             "end": datetime.time(1, 0, 0),
         }
     },
-    "Jubilee": {
+    "Central": {
         "led_no": 2,
         "colour": {
-            "Good Service": (6, 6, 6),
+            "Good Service": (0,255,0),
             "Severe Delays": RED,
             "Minor Delays": YELLOW
         },
@@ -91,7 +91,7 @@ CONFIG = {
     "Metropolitan": {
         "led_no": 1,
         "colour": {
-            "Good Service": (30, 0, 10),
+            "Good Service": (0,255,0),
             "Severe Delays": RED,
             "Minor Delays": YELLOW
         },
@@ -103,7 +103,7 @@ CONFIG = {
     "Northern": {
         "led_no": 0,
         "colour": {
-            "Good Service": (100, 100, 100),
+            "Good Service": (0,255,0),
             "Severe Delays": RED,
             "Minor Delays": YELLOW
         },
