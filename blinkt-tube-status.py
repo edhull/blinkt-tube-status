@@ -27,7 +27,7 @@ CONFIG = {
             "end": datetime.time(1, 0, 0),
         }
     },
-    "Picadilly": {
+    "Piccadilly": {
         "led_no": 6,
         "colour": {
             "Good Service": (0,255,0),
