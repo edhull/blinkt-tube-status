@@ -12,7 +12,9 @@ from blinkt import set_pixel, show, set_brightness
 RED = (255, 0, 0, 0.05)
 ORANGE = (0,191,255, 0.05)
 YELLOW = (255, 255, 0, 0.05)
+PURPL = (157, 0, 255, 0.05)
 GOOD_SERVICE = "Good Service"
+SPECIAL_SERVICE = "Special Service"
 GOOD = (0, 255, 0 )
 CLOSED = (0, 0, 0, 0)
 spacing = 360.0 / 16.0
@@ -30,6 +32,7 @@ CONFIG = {
             "Good Service": GOOD,
             "Severe Delays": RED,
             "Part Closure": ORANGE,
+            "Special Service":PURPLE,
             "Service Closed":CLOSED,
             "Minor Delays": YELLOW
         },
@@ -44,6 +47,7 @@ CONFIG = {
             "Good Service": GOOD,
             "Severe Delays": RED,
             "Part Closure": ORANGE,
+            "Special Service":PURPLE,
             "Service Closed":CLOSED,
             "Minor Delays": YELLOW
         },
@@ -58,6 +62,7 @@ CONFIG = {
             "Good Service": GOOD,
             "Severe Delays": RED,
             "Part Closure": ORANGE,
+            "Special Service":PURPLE,
             "Service Closed":CLOSED,
             "Minor Delays": YELLOW
         },
@@ -72,6 +77,7 @@ CONFIG = {
             "Good Service": GOOD,
             "Severe Delays": RED,
             "Part Closure": ORANGE,
+            "Special Service":PURPLE,
             "Service Closed":CLOSED,
             "Minor Delays": YELLOW
         },
@@ -86,6 +92,7 @@ CONFIG = {
             "Good Service": GOOD,
             "Severe Delays": RED,
             "Part Closure": ORANGE,
+            "Special Service":PURPLE,
             "Service Closed":CLOSED,
             "Minor Delays": YELLOW
         },
@@ -100,6 +107,7 @@ CONFIG = {
             "Good Service": GOOD,
             "Severe Delays": RED,
             "Part Closure": ORANGE,
+            "Special Service":PURPLE,
             "Service Closed":CLOSED,
             "Minor Delays": YELLOW
         },
@@ -115,6 +123,7 @@ CONFIG = {
             "Good Service": GOOD,
             "Severe Delays": RED,
             "Part Closure": ORANGE,
+            "Special Service":PURPLE,
             "Service Closed":CLOSED,
             "Minor Delays": YELLOW
         },
@@ -129,6 +138,7 @@ CONFIG = {
             "Good Service": GOOD,
             "Severe Delays": RED,
             "Part Closure": ORANGE,
+            "Special Service":PURPLE,
             "Service Closed":CLOSED,
             "Minor Delays": YELLOW
         },
