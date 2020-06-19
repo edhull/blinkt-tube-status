@@ -32,6 +32,7 @@ CONFIG = {
             "Good Service": GOOD,
             "Severe Delays": RED,
             "Part Closure": ORANGE,
+	    "Part Suspended": ORANGE,
             "Special Service":PURPLE,
             "Service Closed":CLOSED,
             "Minor Delays": YELLOW
@@ -47,6 +48,7 @@ CONFIG = {
             "Good Service": GOOD,
             "Severe Delays": RED,
             "Part Closure": ORANGE,
+	    "Part Suspended": ORANGE,
             "Special Service":PURPLE,
             "Service Closed":CLOSED,
             "Minor Delays": YELLOW
@@ -62,6 +64,7 @@ CONFIG = {
             "Good Service": GOOD,
             "Severe Delays": RED,
             "Part Closure": ORANGE,
+	    "Part Suspended": ORANGE,
             "Special Service":PURPLE,
             "Service Closed":CLOSED,
             "Minor Delays": YELLOW
@@ -77,6 +80,7 @@ CONFIG = {
             "Good Service": GOOD,
             "Severe Delays": RED,
             "Part Closure": ORANGE,
+	    "Part Suspended": ORANGE,
             "Special Service":PURPLE,
             "Service Closed":CLOSED,
             "Minor Delays": YELLOW
@@ -92,6 +96,7 @@ CONFIG = {
             "Good Service": GOOD,
             "Severe Delays": RED,
             "Part Closure": ORANGE,
+	    "Part Suspended": ORANGE,
             "Special Service":PURPLE,
             "Service Closed":CLOSED,
             "Minor Delays": YELLOW
@@ -107,6 +112,7 @@ CONFIG = {
             "Good Service": GOOD,
             "Severe Delays": RED,
             "Part Closure": ORANGE,
+	    "Part Suspended": ORANGE,
             "Special Service":PURPLE,
             "Service Closed":CLOSED,
             "Minor Delays": YELLOW
@@ -123,6 +129,7 @@ CONFIG = {
             "Good Service": GOOD,
             "Severe Delays": RED,
             "Part Closure": ORANGE,
+	    "Part Suspended": ORANGE,
             "Special Service":PURPLE,
             "Service Closed":CLOSED,
             "Minor Delays": YELLOW
@@ -138,6 +145,7 @@ CONFIG = {
             "Good Service": GOOD,
             "Severe Delays": RED,
             "Part Closure": ORANGE,
+	    "Part Suspended": ORANGE,
             "Special Service":PURPLE,
             "Service Closed":CLOSED,
             "Minor Delays": YELLOW
