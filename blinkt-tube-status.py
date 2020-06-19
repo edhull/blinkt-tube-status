@@ -10,8 +10,8 @@ from time import sleep, localtime, strftime
 from blinkt import set_pixel, show, set_brightness
 
 RED = (255, 0, 0, 0.05)
-ORANGE = (0,191,255, 0.05)
-YELLOW = (255, 255, 0, 0.05)
+ORANGE = (255, 255, 0, 0.05)
+YELLOW = (255, 165, 0, 0.05)
 PURPLE = (157, 0, 255, 0.05)
 GOOD_SERVICE = "Good Service"
 SPECIAL_SERVICE = "Special Service"
